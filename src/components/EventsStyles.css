@@ -1,0 +1,38 @@
+.destination{
+    margin: 4rem 6rem;
+}
+.edit1 {
+    text-align: left;
+}
+
+
+.first-pro{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 4.5rem;
+}
+.text{
+    width: 45%;
+    text-align: start;
+    font-size: 1.1rem; 
+    padding-right: 75px;
+}
+.first-pro a{
+  
+   margin: 1rem 0.2rem;
+   
+}
+
+.edit-image{
+    width: 100%;
+    height: 560px;
+    background-size: cover;
+    background-position: left;
+
+
+}
+.btn{
+ margin: 1%;
+
+}
